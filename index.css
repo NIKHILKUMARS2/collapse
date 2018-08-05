@@ -1,0 +1,90 @@
+:root{
+	font-size: 16px;
+}
+
+
+.row1{     
+background-color: LightGrey;     
+padding: 1.0em;     
+border-style: solid;
+border-width: 0.001em;
+   border-bottom: none
+}
+
+.paragraph1{
+	display: flex;
+	flex-shrink: 50;
+	overflow: hidden;
+	border-style: solid;
+    border-width: 0.001em;
+    border-top: none;
+}
+.paragraph2{
+	display: flex;
+	flex-shrink: 50;
+	overflow: hidden;
+	border-style: solid;
+    border-width: 0.001em;
+    border-top: none;
+}
+
+.paragraph3{
+	display: flex;
+	flex-shrink: 50;
+	overflow: hidden;
+	border-style: solid;
+    border-width: 0.001em;
+    border-top: none;
+}
+
+.paragraph4{
+	display: flex;
+	flex-shrink: 50;
+	overflow: hidden;
+	border-style: solid;
+    border-width: 0.001em;
+    border-top: none;
+}
+.row2{
+background-color: LightGrey;     
+padding: 1.4em;     
+border-style: solid;
+border-width: 0.001em;
+}
+.component1{
+	width: 7%;
+	cursor: pointer;
+}
+
+.component2{
+	width: 7%;
+	cursor: pointer;
+}
+
+.component3{
+	width: 7%;
+	cursor: pointer;
+}
+
+.component4{
+	width: 7%;
+	cursor: pointer;
+}
+.row3{
+background-color: LightGrey;     
+padding: 1.4em;     
+border-style: solid;
+border-width: 0.001em;
+}
+.row4{
+background-color: LightGrey;     
+padding: 1.4em;     
+border-style: solid;
+border-width: 0.001em;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+
+}
